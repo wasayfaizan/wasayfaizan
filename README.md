@@ -1,6 +1,8 @@
 Hello World👋, I'm Wasay Faizan!
 
 
-- Programming Languages 
+- Languages & Tools
     - JavaScript
     - Java
+    - HTML
+    - CSS
