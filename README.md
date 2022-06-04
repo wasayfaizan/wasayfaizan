@@ -6,3 +6,5 @@ Hello World👋, I'm Wasay Faizan!
     - Java
     - HTML
     - CSS
+    - Figma
+    
