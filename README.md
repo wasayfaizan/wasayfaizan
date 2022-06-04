@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wasay Faizan</h1>
-<h3 align="center">HBSc Comp Sci Student @ York University</h3>
+<h3 align="center">BSc Comp Sci Student @ York University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wasayfaizan08&label=Profile%20views&color=0e75b6&style=flat" alt="wasayfaizan08" /> </p>
 
