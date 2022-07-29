@@ -1,8 +1,9 @@
-
+<!DOCTYPE html>
 <html lang="En">
 <head>
 <meta name="google-site-verification" content="SdSO1A6_C0gd--I_XIj0PdDVavpKsOTzERZ3-OW4c6A" />
 </head>
+<body>
 <h1 align="center">Hi 👋, I'm Wasay Faizan</h1>
 <h3 align="center">BSc Comp Sci Student @ York University</h3>
 
@@ -36,5 +37,6 @@
 <img src ="https://github-readme-stats.vercel.app/api?username=wasayfaizan08&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wasayfaizan08&" alt="wasayfaizan08" /></p>
+</body
 </html>
 
