@@ -1,5 +1,6 @@
+<head>
 <meta name="google-site-verification" content="SdSO1A6_C0gd--I_XIj0PdDVavpKsOTzERZ3-OW4c6A" />
-
+</head>
 <h1 align="center">Hi 👋, I'm Wasay Faizan</h1>
 <h3 align="center">BSc Comp Sci Student @ York University</h3>
 
