@@ -72,13 +72,11 @@
 
  
    <p align="center">
-      <img width="42.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wasayfaizan&show_icons=true&locale=en&theme=radical" alt="wasayfaizan" />
-      <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=wasayfaizan&theme=radical" alt="wasayfaizan" />
-      <picture>
-         <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wasayfaizan/wasayfaizan/output/github-contribution-grid-snake-dark.svg" />
-         <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wasayfaizan/wasayfaizan/output/github-contribution-grid-snake.svg" />
-      </picture>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasayfaizan&theme=calm&hide_border=true&layout=donut&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Langs">
+      <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=wasayfaizan&theme=calm&hide_border=true&border_radius=10&card_width=450" alt="GitHub Streak">
+</a>
+
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasayfaizan&theme=calm&hide_border=true&layout=donut&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Langs">
    </p>
   
 
