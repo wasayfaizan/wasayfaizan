@@ -69,6 +69,7 @@
          <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
       </a>
    </p>
+
  
    <p align="center">
       <img width="42.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wasayfaizan&show_icons=true&locale=en&theme=radical" alt="wasayfaizan" />
@@ -77,6 +78,11 @@
          <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wasayfaizan/wasayfaizan/output/github-contribution-grid-snake-dark.svg" />
          <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wasayfaizan/wasayfaizan/output/github-contribution-grid-snake.svg" />
       </picture>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasayfaizan&theme=calm&hide_border=true&layout=donut&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Langs">
    </p>
+  
+
+
+   
 </body>
 </html>
