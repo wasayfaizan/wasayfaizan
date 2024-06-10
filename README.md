@@ -71,13 +71,14 @@
    </p>
 
  
-   <p align="center">
-      <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=wasayfaizan&theme=calm&hide_border=true&border_radius=10&card_width=450" alt="GitHub Streak">
-</a>
+  <p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=wasayfaizan&theme=calm&hide_border=true&border_radius=10&card_width=450" alt="GitHub Streak" style="margin-right: 10px;">
+    </a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasayfaizan&theme=calm&hide_border=true&layout=donut&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Langs" style="margin-right: 10px;">
+    <img src="https://leetcard.jacoblin.cool/wasayfaizan?theme=dark&font=Open%20Sans" alt="LeetCode Stats">
+</p>
 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasayfaizan&theme=calm&hide_border=true&layout=donut&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Langs">
-   </p>
   
 
 
