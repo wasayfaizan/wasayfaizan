@@ -25,6 +25,9 @@ I thrive on solving complex puzzles in code and in life.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-%2300519C.svg?style=for-the-badge&logo=verilog&logoColor=white)
+![RISC-V](https://img.shields.io/badge/RISC_V-%23F93A02.svg?style=for-the-badge&logo=riscv&logoColor=white)
+
 
 
 
