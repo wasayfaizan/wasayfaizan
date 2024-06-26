@@ -1,87 +1,40 @@
-<!DOCTYPE html>
-<html lang="En">
-<head>
-   <meta name="google-site-verification" content="SdSO1A6_C0gd--I_XIj0PdDVavpKsOTzERZ3-OW4c6A" />
-</head>
-<body>
-   <h1 align="center">Hi 👋, I'm Wasay Faizan</h1>
-   <h3 align="center">BSc Comp Sci Student @ York University</h3>
+# 💫 About Me:
+🔭 **I’m currently working on:**  
+Building a feature-rich chat application in Android Studio that focuses on real-time communication and user engagement.
 
-   <p align="left">
+🌱 **I’m currently learning:**  
+React and Typescript
+
+⚡ **Fun fact:**  
+I thrive on solving complex puzzles in code and in life.
+
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Prolog](https://img.shields.io/badge/Prolog-%23734151.svg?style=for-the-badge&logo=prolog&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+
+
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=wasayfaizan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=wasayfaizan&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasayfaizan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+ <p align="left">
       <img src="https://komarev.com/ghpvc/?username=wasayfaizan08&label=Profile%20views&color=0e75b6&style=flat" alt="wasayfaizan08" />
    </p>
-
-   <h3 align="left">Languages:</h3>
-   <p align="left">
-      <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-      </a>
-      <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      </a> 
-      <a href="https://www.java.com" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-      </a>
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-      </a> 
-      <a href="https://www.python.org" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      </a>
-      <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-      </a>
-      <a href="https://www.swi-prolog.org/" target="_blank" rel="noreferrer">
-         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="prolog" width="40" height="40"/>
-      </a>
-   </p>
-    
-   <h3 align="left">Frameworks:</h3>
-   <p align="left">
-      <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-      </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-      </a>
-      <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Expressjs" width="40" height="40" /> 
-      </a>
-      <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-         <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-      </a> 
-      
-   </p>
-
-   <h3 align="left">Databases:</h3>
-   <p align="left">
-      <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-      </a> 
-      <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-      </a> 
-   </p>
-
-   <h3 align="left">Tools:</h3>
-   <p align="left">
-      <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-         <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-      </a>
-   </p>
-
- 
-  <p align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
-    <a href="https://git.io/streak-stats">
-        <img src="https://streak-stats.demolab.com?user=wasayfaizan&theme=calm&hide_border=true&border_radius=10&card_width=450" alt="GitHub Streak" style="margin-right: 10px;">
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasayfaizan&theme=calm&hide_border=true&layout=donut&border_radius=10&size_weight=0.5&count_weight=0.5" alt="Top Langs" style="margin-right: 10px;">
-    <img src="https://leetcard.jacoblin.cool/wasayfaizan?theme=dark&font=Open%20Sans" alt="LeetCode Stats">
-</p>
-
-  
-
-
-   
-</body>
-</html>
