@@ -43,11 +43,6 @@ I thrive on solving complex puzzles in code and in life.
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 
 
-
-
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wasayfaizan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wasayfaizan&theme=dark&hide_border=false)<br/>
@@ -57,3 +52,7 @@ I thrive on solving complex puzzles in code and in life.
  <p align="left">
       <img src="https://komarev.com/ghpvc/?username=wasayfaizan08&label=Profile%20views&color=0e75b6&style=flat" alt="wasayfaizan08" />
    </p>
+
+
+   ![Visitor Count](https://profile-counter.glitch.me/{your-username}/count.svg)
+
