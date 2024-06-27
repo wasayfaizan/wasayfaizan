@@ -47,6 +47,9 @@ I thrive on solving complex puzzles in code and in life.
 ![](https://github-readme-stats.vercel.app/api?username=wasayfaizan&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wasayfaizan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasayfaizan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p  style="display: flex; justify-content: center; align-items: center; flex-wrap: nowrap;">
+   <img src="https://leetcard.jacoblin.cool/wasayfaizan?theme=dark&font=Open%20Sans" alt="LeetCode Stats">
+</p>
 
 ---
  <p align="left">
