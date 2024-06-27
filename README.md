@@ -54,5 +54,6 @@ I thrive on solving complex puzzles in code and in life.
    </p>
 
 
-   ![Visitor Count](https://profile-counter.glitch.me/{your-username}/count.svg)
+
+
 
