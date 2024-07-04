@@ -3,7 +3,7 @@
 Building a feature-rich chat application in Android Studio that focuses on real-time communication and user engagement.
 
 🌱 **I’m currently learning:**  
-React
+React and Typescript
 
 ⚡ **Fun fact:**  
 I thrive on solving complex puzzles in code and in life.
