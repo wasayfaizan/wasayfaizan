@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 **I’m currently working on:**  
-Building a feature-rich chat application in Android Studio that focuses on real-time communication and user engagement.
+Developing a comprehensive cricket scoring application, emphasizing real-time updates, accurate statistics tracking, and user-friendly interfaces.
 
 🌱 **I’m currently learning:**  
 React and Typescript
