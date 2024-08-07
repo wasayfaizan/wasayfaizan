@@ -55,7 +55,7 @@ I thrive on solving complex puzzles in code and in life.
 
 ---
  <p align="left">
-      <img src="https://komarev.com/ghpvc/?username=wasayfaizan&label=Profile%20views&color=0e75b6&style=flat" alt="wasayfaizan08" />
+      <img src="https://komarev.com/ghpvc/?username=wasayfaizan08&label=Profile%20views&color=0e75b6&style=flat" alt="wasayfaizan08" />
    </p>
 
 
