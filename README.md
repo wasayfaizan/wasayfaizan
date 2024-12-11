@@ -45,7 +45,7 @@ I thrive on solving complex puzzles in code and in life.
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wasayfaizan&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wasayfaizan&theme=blueberry)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wasayfaizan&theme=catppuccin-frappe&hide_border=true)](https://git.io/streak-stats)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wasayfaizan&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # Leetcode Stats:
