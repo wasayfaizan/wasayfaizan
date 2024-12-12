@@ -1,12 +1,16 @@
-# 💫 About Me:
-🔭 **I’m currently working on:**  
-Developing a comprehensive cricket scoring application, emphasizing real-time updates, accurate statistics tracking, and user-friendly interfaces.
+# 🌟 About Me  
+👋 **Hi There!**  
+I'm a **Machine Learning enthusiast** with a deep curiosity for turning raw data into impactful insights and intelligent systems.  
 
-🌱 **I’m currently learning:**  
-React and Typescript
+🧠 **What Drives Me:**  
+I’m passionate about solving real-world problems using the power of **AI and ML**—whether it’s predicting trends, optimizing systems, or uncovering hidden patterns in data.  
 
-⚡ **Fun fact:**  
-I thrive on solving complex puzzles in code and in life.
+📈 **My Focus Areas:**  
+Exploring the realms of **Deep Learning**, **Reinforcement Learning**, and **Data Visualization**, all while working on exciting projects that make theory come to life.  
+
+🚀 **My Mission:**  
+To build innovative, data-driven solutions that not only answer questions but ask new ones. Let's create a smarter world, one algorithm at a time!  
+
 
 # Connect with me:
 <p align="left">
