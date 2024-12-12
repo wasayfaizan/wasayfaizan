@@ -10,7 +10,7 @@ I thrive on solving complex puzzles in code and in life.
 
 # Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-wasay-faizan-b69148243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-wasay-faizan-b69148243/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/abdul-wasay-faizan-b69148243/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-wasay-faizan-b69148243/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/wasayfaizan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="wasayfaizan" height="30" width="40" /></a>
 </p><br>
 
