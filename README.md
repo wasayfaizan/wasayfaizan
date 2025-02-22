@@ -6,11 +6,14 @@ I'm a **Machine Learning enthusiast** with a deep curiosity for turning raw data
 I’m passionate about solving real-world problems using the power of **AI and ML**—whether it’s predicting trends, optimizing systems, or uncovering hidden patterns in data.  
 
 📈 **My Focus Areas:**  
-Exploring the realms of **Deep Learning**, **Reinforcement Learning**, and **Data Visualization**, all while working on exciting projects that make theory come to life.  
+- Data Analysis: Cleaning, visualizing, and interpreting data to drive decision-making.
+
+- Machine Learning: Building predictive models and exploring advanced techniques like deep learning.
+
+- Data Science: Combining statistics, programming, and domain knowledge to extract insights.
 
 🚀 **My Mission:**  
-To build innovative, data-driven solutions that not only answer questions but ask new ones. Let's create a smarter world, one algorithm at a time!  
-
+To create data-driven solutions that not only answer questions but also inspire new ones. Let's build a smarter world, one dataset at a time!
 
 # Connect with me:
 <p align="left">
